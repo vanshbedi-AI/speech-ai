@@ -2,7 +2,7 @@ import json
 import streamlit as st
 
 from transcriber import AudioTranscriber
-from summarizer import MeetingSummarizer
+from summarize import MeetingSummarizer
 
 
 # --------------------------------------------------
